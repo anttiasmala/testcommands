@@ -68,5 +68,3 @@ Download the content from a remote repository
 git pull REMOTE
 
 
-test375
-best test375
